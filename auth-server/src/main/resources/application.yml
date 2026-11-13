@@ -1,9 +1,0 @@
-server:
-  port: 9000
-
-spring:
-  application:
-    name: auth-server
-  threads:
-    virtual:
-      enabled: true
